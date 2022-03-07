@@ -12,3 +12,5 @@ to the end of the current chunk it will render the next 20 items.
 When rendering the next 20 items, the previous chunks will not disappear, and when
 you scroll back they will be rendered already, which means that when you scrolled to the
 end of the items you received as a prop the entire list will be rendered.
+
+https://sizil.csb.app/
